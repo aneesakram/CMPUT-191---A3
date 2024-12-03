@@ -68,13 +68,8 @@ plots.show()
 
 ## **Conclusions**
 
-1. **Most Expensive Country**: (Insert result here)
-2. **Cheapest Country**: (Insert result here)
-3. **Impact of Sales Tax Rates**: The analysis indicates that (insert findings on whether sales tax significantly affects prices).
-
-### **Challenges and Observations**
-- Scraping accurate data from dynamic websites posed challenges.
-- Aligning data from multiple sources required rigorous cleaning.
+1. **Most Expensive Country**: New Zealand
+2. **Cheapest Country**: Zambia
 
 ### **Interesting Insights**
 - (Highlight any trends or anomalies observed during the analysis, e.g., "Countries with higher GDPs tend to have lower egg prices despite higher sales tax rates.")
