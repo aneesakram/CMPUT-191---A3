@@ -78,7 +78,3 @@ plots.show()
 
 ### **Interesting Insights**
 - (Highlight any trends or anomalies observed during the analysis, e.g., "Countries with higher GDPs tend to have lower egg prices despite higher sales tax rates.")
-
----
-
-This markdown file provides a clear structure to present your analysis, meeting all the requirements for your GitHub Pages site. Let me know if you need help refining specific sections or adding more details!
