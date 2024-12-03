@@ -1,6 +1,3 @@
-Based on the uploaded notebook structure, here’s a draft markdown file to present your project on GitHub Pages. The markdown includes sections for the introduction, detailed steps for code and analysis, and conclusions, following the requirements:
-
----
 
 # **Egg Prices Analysis Across Countries**
 
